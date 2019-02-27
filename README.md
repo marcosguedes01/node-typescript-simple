@@ -8,6 +8,7 @@ Execute:
  1. npm init
  2. tsc --init
  
+ ```json
  tsconfig example:
  {
   "compilerOptions": {
@@ -21,3 +22,4 @@ Execute:
   },
   "include": ["src/**/*"]
 }
+```
